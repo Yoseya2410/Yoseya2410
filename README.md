@@ -1,5 +1,5 @@
 - 👋 I’m yoseya,I like mathematics and physics, want to explore nature, love to study computer and electronic technology, and want to become an excellent people.
-- 👀 I'm interested in Javascript, C/C++, Android, Python, lua and electronic technology
+- 👀 I’m interested in physics, computer, internet and electronic information
 - 🌱 At present, I mainly study C and javascript, as well as some front-end development technologies
 - 💞️ I’m looking to collaborate on JavaScript
 - 📫 Of course, you can contact me if you have any good ideas. My email is yoseya2410@outlook.com
