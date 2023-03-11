@@ -1,4 +1,4 @@
-- 👋 I'm Yoseya. I like mathematics and physics. I want to explore nature. I mainly study particle physics, quantum information and artificial intelligence. I want to be an excellent person.
+- 👋 I'm Yoseya. I like mathematics and physics,I want to explore nature. I mainly study particle physics, quantum information and artificial intelligence. I want to be an excellent person.
 - 🌱 At present, I mainly study C++ and javascript, as well as some front-end development technologies
 - 💞️ I’m interested in physics, computer, internet and electronic information
 - 📫 Of course, you can contact me if you have any good ideas. My email is yoseya2410@outlook.com
