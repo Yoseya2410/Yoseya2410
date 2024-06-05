@@ -1,4 +1,4 @@
 - 👋 I'm Yoseya. I like mathematics and physics,I want to explore nature. I mainly study particle physics, quantum information.
-- 🌱 At present, I mainly study C++ and javascript, as well as some front-end development technologies
+- 🌱 I started to learn front-end development in 2019 and started to learn web development and embedded development in 2022.
 - 💞️ I’m interested in physics, computer, internet and electronic information
 - 📫 Of course, you can contact me if you have any good ideas. My email is yoseya2410@outlook.com
