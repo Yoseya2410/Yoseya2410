@@ -1,4 +1,4 @@
 - 👋 I'm Yoseya, an independent developer, and I mainly research particle physics and quantum information.
 - 🌱 I started to learn front-end development in 2019 and started to learn web development and embedded development in 2022.
-- 💞️ I’m interested in physics, computer, internet and electronic information
+- 💞️ I like mathematics and physics, love nature, and learning computers is my hobby.
 - 📫 Of course, you can contact me if you have any good ideas. My email is yoseya2410@outlook.com
