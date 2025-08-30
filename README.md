@@ -5,11 +5,9 @@
 
 <details>
 <summary>Chinese</summary>
-
 - 👋 我是Yoseya，一个在代码丛林里裸奔的野生开发者，主要研究如何让电脑心甘情愿替我打工的玄学技术。  
 - 🌱 从2019年开始学习潜心钻研Hello World召唤术，2022年突然觉醒双重人格——白天用JavaScript在网页上搭乐高，晚上用C语言和电路板说加密情话，从此在赛博世界快乐跑酷。  
 - 💞️ 数学和物理是我的左右护法，大自然是我写bug时的急救氧气瓶，至于学计算机？那是我和电脑之间"相爱相杀"的日常情趣。  
 - 📫 如果你的脑洞比我的代码漏洞还大，欢迎各路英雄好汉来邮件勾搭 yoseya2410@outlook.com
 </details>
-
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/mengyanshou/mengyanshou/output/github-contribution-grid-snake.svg)
