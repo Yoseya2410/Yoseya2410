@@ -4,7 +4,7 @@
 - 📫  If your imagination is bigger than my code vulnerability, welcome all kinds of heroes and heroes to email and hook up yoseya2410@outlook.com
 
 <details>
-<summary>Chinese Version</summary>
+<summary>Chinese</summary>
 
 - 👋 我是Yoseya，一个在代码丛林里裸奔的野生开发者，主要研究如何让电脑心甘情愿替我打工的玄学技术。  
 - 🌱 从2019年开始学习潜心钻研Hello World召唤术，2022年突然觉醒双重人格——白天用JavaScript在网页上搭乐高，晚上用C语言和电路板说加密情话，从此在赛博世界快乐跑酷。  
