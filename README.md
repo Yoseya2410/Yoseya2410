@@ -12,4 +12,4 @@
 - 📫 如果你的脑洞比我的代码漏洞还大，欢迎各路英雄好汉来邮件勾搭 yoseya2410@outlook.com
 </details>
 
-[github-contribution-grid-snake](https://raw.githubusercontent.com/mengyanshou/mengyanshou/output/github-contribution-grid-snake.svg)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/mengyanshou/mengyanshou/output/github-contribution-grid-snake.svg)
